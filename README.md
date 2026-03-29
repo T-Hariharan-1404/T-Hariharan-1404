@@ -1,6 +1,3 @@
-Here’s your content cleaned, properly formatted, and GitHub-ready (without changing meaning—just improving structure, spacing, and consistency):
-
----
 
 # T. Hariharan
 
